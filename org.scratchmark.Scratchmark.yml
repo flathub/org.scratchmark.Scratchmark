@@ -42,6 +42,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/sevonj/scratchmark.git
-        tag: v1.10.0
-        commit: 4d2857b69ec70602ebae02919959231d7b73916b
+        tag: v1.11.0
+        commit: b987d79562eacf69e63230f0cf20496b547fad54
       - generated-sources.json
